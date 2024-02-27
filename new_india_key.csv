@@ -1,0 +1,55 @@
+﻿cluster,item,color,shape,cluster_name
+1,sdacown,orange,circle,Consequences of appliance ownership
+2,sdacee,green,circle,Energy-efficiency of appliances
+2,sdacee2x,green,circle,Energy-efficiency of appliances
+3,sdacnotnec,red,circle,Worth of appliances
+1,sdacwant,orange,circle,Consequences of appliance ownership
+1,sdacss,orange,circle,Consequences of appliance ownership
+3,sdacnotworth,red,circle,Worth of appliances
+1,sdacqol,orange,circle,Consequences of appliance ownership
+1,sdacnotbad,orange,circle,Consequences of appliance ownership
+4,siwastee,purple,circle,Pro-climate action
+4,sidivest,purple,circle,Pro-climate action
+5,sirenslow,yellow,circle,Anti-climate action
+4,sirenair,purple,circle,Pro-climate action
+5,siglobal,yellow,circle,Anti-climate action
+4,siccdrastic,purple,circle,Pro-climate action
+5,sisoc,yellow,circle,Anti-climate action
+5,sicccit,yellow,circle,Anti-climate action
+4,siccgov,purple,circle,Pro-climate action
+5,siccrich,yellow,circle,Anti-climate action
+4,siccind,purple,circle,Pro-climate action
+5,sicclux,yellow,circle,Anti-climate action
+5,sieeworth,yellow,circle,Anti-climate action
+5,siwestcut,yellow,circle,Anti-climate action
+4,siev,purple,circle,Pro-climate action
+4,sisolar,purple,circle,Pro-climate action
+5,sisolarenv,yellow,circle,Anti-climate action
+5,sifoodwaste,yellow,circle,Anti-climate action
+5,simeat,yellow,circle,Anti-climate action
+5,sidevair,yellow,circle,Anti-climate action
+4,siairpol,purple,circle,Pro-climate action
+4,sinewbldg,purple,circle,Pro-climate action
+5,sirenter,yellow,circle,Anti-climate action
+1,sirichstd,orange,circle,Consequences of appliance ownership
+5,sisuccess,yellow,circle,Anti-climate action
+5,sicomfort,yellow,circle,Anti-climate action
+5,sisaving,yellow,circle,Anti-climate action
+4,siwaste,purple,circle,Pro-climate action
+1,dacown,orange,circle,Consequences of appliance ownership
+2,dacee,green,circle,Energy-efficiency of appliances
+2,dacee2x,green,circle,Energy-efficiency of appliances
+3,dacnotnec,red,circle,Worth of appliances
+1,dacss,orange,circle,Consequences of appliance ownership
+3,dacnotworth,red,circle,Worth of appliances
+1,dacqol,orange,circle,Consequences of appliance ownership
+1,dacnotbad,orange,circle,Consequences of appliance ownership
+2,pacee2x,green,square,Energy-efficiency of appliances
+3,pacnotnec,red,square,Worth of appliances
+1,pacss,orange,square,Consequences of appliance ownership
+3,pacnotworth,red,square,Worth of appliances
+1,pacqol,orange,square,Consequences of appliance ownership
+1,pacnotbad,orange,square,Consequences of appliance ownership
+1,bacvsother,orange,diamond,Consequences of appliance ownership
+2,bpayeeac,green,diamond,Energy-efficiency of appliances
+3,bpubtrans,red,diamond,Worth of appliances
